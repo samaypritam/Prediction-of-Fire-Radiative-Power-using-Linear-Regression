@@ -1,0 +1,1 @@
+# Prediction-of-Fire-Radiative-Power-using-Linear-Regression
